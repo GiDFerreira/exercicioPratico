@@ -1,0 +1,11 @@
+{
+  "name": "exerciciopratico",
+  "version": "1.0.0",
+  "description": "Projeto em node.js para arquitetura de software - primeiro projeto.\r Implementar as classes conforme o diagrama apresentado\r Utilizar módulos para organizar suas classes em um projeto Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giovanna Ferreira",
+  "license": "ISC"
+}
